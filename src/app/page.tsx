@@ -76,6 +76,14 @@ export default function Home() {
           >
             view the repository
           </a>
+          {" "} | {" "}
+          <a
+            href="https://kanban-eight-pink.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            live demo
+          </a>
         </p>
       </footer>
     </>
