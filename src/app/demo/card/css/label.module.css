@@ -1,0 +1,10 @@
+.label {
+  padding: 5px 4px;
+  border-radius: 2px;
+  display: inline-block;
+  font-size: 10px;
+  line-height: 10px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+}
